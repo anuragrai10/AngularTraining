@@ -1,0 +1,9 @@
+.bg-blue{
+    background-color: rgb(0, 17, 255);
+    height: 40px;
+}
+.navbar-brand{
+    background-color: red;
+    width: 50px;
+    padding-left: 10px;
+}
